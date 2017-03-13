@@ -1,0 +1,31 @@
+.casts{
+	height: 50px;
+}
+.active{
+	color: #C12E2A;
+}
+
+#commentContent{
+	line-height: 50px;
+	background: #CCCCCC;
+	text-align: center;
+}
+#textarea{
+	width: 70%;
+	height: 150px;
+	overflow: auto;
+}
+#submit{
+	vertical-align: bottom;
+	width: 100px;
+	height: 40px;
+	background: green;
+	margin-left: 10px;
+	border-radius: 5px;
+	color: ghostwhite;
+}
+
+/*app页面登陆框*/
+#LogFrame{
+	margin-right: 50px;
+}
